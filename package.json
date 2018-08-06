@@ -1,0 +1,14 @@
+{
+  "name": "image-retrieval",
+  "version": "1.0.0",
+  "description": "Image Retrieval UI",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Nikita Vorobzhanskiy",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
